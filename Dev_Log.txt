@@ -1,0 +1,20 @@
+Features to add:
+	upload/download client-server
+	menu for hierarchy of features
+	filter for tags
+	easy 'tagging'
+	easy file viewer
+	easy file selector
+	simply upload feature for social: Facebook,Twitter,Pintrest,and REddit
+	file permissions
+	user profiles
+	compatible with x64 and ARM devices
+	backup to offsite location
+	secure connection via remote portal
+	
+possible language choices:
+	//listed adv/disadv 
+	Visual Basic
+	Java
+	JavaScript
+	
